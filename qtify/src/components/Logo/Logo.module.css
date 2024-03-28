@@ -1,0 +1,21 @@
+.logoContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .icon {
+    width: 25px; /* Adjust the width of the icon container */
+    height: 25px; /* Adjust the height of the icon container */
+    position: absolute;
+    /* Add any additional styles for the icon container */
+  }
+  
+  /* Styles for the text */
+  .text {
+    margin-left: 16px; /* Adjust the margin between the icon and text */
+    /* Add any additional styles for the text */
+    position: relative;
+    right: 0;
+  }
+  

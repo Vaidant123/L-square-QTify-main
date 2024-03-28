@@ -1,0 +1,10 @@
+.wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 270px;
+}
+.herotxt{
+    width: 556px;
+    height: 100px;
+}
